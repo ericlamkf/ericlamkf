@@ -99,17 +99,17 @@ Prototype feature designed for **Grab’s driver-partners (DAX)**, enabling auto
   </a>
   
   <!-- LinkedIn -->
-  <a href="[https://www.linkedin.com/in/your-linkedin](https://www.linkedin.com/in/eric-lam-kah-fai-63b12229a/)" target="_blank">
+  <a href="https://www.linkedin.com/in/eric-lam-kah-fai-63b12229a/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   
   <!-- GitHub -->
-  <a href="[https://github.com/your-github](https://github.com/ericlamkf)" target="_blank">
+  <a href="https://github.com/ericlamkf" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   
   <!-- Portfolio (optional) -->
-  <a href="[https://your-portfolio-link.com](https://portfolio-website-mu-henna-64.vercel.app/)" target="_blank">
+  <a href="https://portfolio-website-mu-henna-64.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-4CAF50?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
   </a>
 </p>

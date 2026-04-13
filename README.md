@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4e54c8,100:8f94fb&height=250&section=header&text=Eric%20Lam&fontSize=60&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4e54c8,100:8f94fb&height=250&section=header&text=Eric%20Lam&fontSize=60&fontColor=ffffff&font=Poppins&animation=fadeIn" />
 </p>
 
 <h2 align="center">🚀 Second-Year CS Student @ University of Malaya</h2>

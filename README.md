@@ -4,14 +4,14 @@
 </p>
 
 <h2 align="center">🚀 Second-Year CS Student @ University of Malaya</h2>
-<p align="center">AI & Networking Learner • Aspiring Software Engineer • Problem Solver</p>
+<p align="center">AI & Backend Learner • Frontend Engineer • Problem Solver</p>
 
 ---
 
 ## 🌟 About Me
-Hi! I'm **Eric**, a second-year Computer Science student passionate about **AI, networking, and building real-world software**.  
+Hi! I'm **Eric**, a second-year Computer Science student passionate about **AI, backend engineering, and building real-world software**.  
 
-I love creating projects that mix engineering depth with practical impact — from **React Native mobile apps**, to **AI models**, to **complex fullstack fundamentals** using Springboot.
+I love creating projects that mix engineering depth with practical impact — from **React Native mobile apps**, to **AI models**, to **complex fullstack fundamentals** using Springboot and React JS.
 
 ---
 

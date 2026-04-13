@@ -43,6 +43,7 @@ I love creating projects that mix engineering depth with practical impact — fr
   <img src="https://img.shields.io/badge/Firebase-FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black"/>
   <img src="https://img.shields.io/badge/Google_Cloud-4285F4.svg?style=for-the-badge&logo=googlecloud&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaFX-3876AB.svg?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
 </p>
 
 ---
@@ -52,7 +53,6 @@ I love creating projects that mix engineering depth with practical impact — fr
 - Machine Learning
 - Mobile Application Development
 - NLP & Text Classification  
-- Networking (VLANs, OSPF-Style design, inter-VLAN routing)  
 - System Design & ISA  
 - Full-stack development
 - Project Management
@@ -61,6 +61,7 @@ I love creating projects that mix engineering depth with practical impact — fr
 ---
 
 ## 🏆 Competitions
+- **UM Game Jam 2026** - |
 - **UM DataHacks 2025** – Hate Speech Target Prediction (NLP + ML)  | Second Runner-up
 - **UM Internal Hackathon 2024** – Tech innovation challenge        | First Runner-up
 - **UM Hackathon 2025** - Hackathon competition                     | Participant

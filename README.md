@@ -9,9 +9,24 @@
 ---
 
 ## 🌟 About Me
-Hi! I'm **Eric**, a second-year Computer Science student passionate about **AI, backend engineering, and building real-world software**.  
+Hi! I'm **Eric**, a second-year Computer Science student passionate about **mobile engineering, backend engineering, and building real-world software**.  
 
-I love creating projects that mix engineering depth with practical impact — from **React Native mobile apps**, to **AI models**, to **complex fullstack fundamentals** using Springboot and React JS.
+Currently working as a Mobile Engineering Intern at MoneyLion
+📍 The Exchange 106, Kuala Lumpur, Malaysia
+
+I love creating projects that mix engineering depth with practical impact from **React Native mobile apps**, to **complex microservices**, to **complex fullstack fundamentals** using Springboot and React JS.
+
+---
+
+### 💼 Experience
+
+**Software Engineering Intern — MoneyLion**
+Aug 2026 – Feb 2027
+
+• Contributing to MoneyLion's mobile applications
+• Working with React Native / TypeScript
+• Collaborating with software engineers through GitHub
+• Working with Git, pull requests, code reviews and CI/CD
 
 ---
 
